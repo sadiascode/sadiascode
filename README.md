@@ -30,7 +30,7 @@ I believe **small improvements every day lead to big growth** as a developer.
 - **Language:** Dart  
 - **UI:** Material Design, Custom Widgets  
 - **State Management:** Basic setState (learning advanced approaches)  
-- **Tools:** Git, GitHub, VS Code 
+- **Tools:** Git, GitHub, VS Code, Android Studio 
 
 ---
 
