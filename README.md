@@ -26,9 +26,9 @@ I believe **small improvements every day lead to big growth** as a developer.
 
 ##  Tech Stack & Tools
 
-<p align="left">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dart,materialui,git,github,vsstudio,androidstudio" />
-</p>
+</div>
 
 ---
 
