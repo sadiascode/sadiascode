@@ -26,11 +26,9 @@ I believe **small improvements every day lead to big growth** as a developer.
 
 ##  Tech Stack & Tools
 
-- ![Flutter](https://img.shields.io/badge/Framework-Flutter-blue?style=for-the-badge&logo=flutter)
-![Dart](https://img.shields.io/badge/Language-Dart-blue?style=for-the-badge&logo=dart)
-![Material Design](https://img.shields.io/badge/UI-Material%20Design-red?style=for-the-badge)
-![Git](https://img.shields.io/badge/Version%20Control-Git-orange?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/IDE-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,materialui,git,github,vsstudio,androidstudio" />
+</p>
 
 ---
 
